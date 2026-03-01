@@ -1,0 +1,42 @@
+{
+  "total_rows": 1021977,
+  "sample_rows": 200000,
+  "n_features": 16,
+  "target": "DEATH",
+  "features": [
+    "SEX",
+    "HOSPITALIZED",
+    "PNEUMONIA",
+    "AGE",
+    "PREGNANT",
+    "DIABETES",
+    "COPD",
+    "ASTHMA",
+    "IMMUNOSUPPRESSION",
+    "HYPERTENSION",
+    "OTHER_DISEASE",
+    "CARDIOVASCULAR",
+    "OBESITY",
+    "RENAL_CHRONIC",
+    "TOBACCO",
+    "COVID_POSITIVE"
+  ],
+  "death_rate": 0.07305154616982575,
+  "binary_features": [
+    "SEX",
+    "HOSPITALIZED",
+    "PNEUMONIA",
+    "PREGNANT",
+    "DIABETES",
+    "COPD",
+    "ASTHMA",
+    "IMMUNOSUPPRESSION",
+    "HYPERTENSION",
+    "OTHER_DISEASE",
+    "CARDIOVASCULAR",
+    "OBESITY",
+    "RENAL_CHRONIC",
+    "TOBACCO",
+    "COVID_POSITIVE"
+  ]
+}

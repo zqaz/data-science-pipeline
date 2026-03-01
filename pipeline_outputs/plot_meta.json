@@ -1,0 +1,62 @@
+[
+  {
+    "file": "01_class_balance.png",
+    "title": "Class Balance",
+    "desc": "Distribution of DEATH target variable"
+  },
+  {
+    "file": "02_age_distribution.png",
+    "title": "Age Distribution",
+    "desc": "Age by survival outcome"
+  },
+  {
+    "file": "03_age_group_death.png",
+    "title": "Age Group Death Rate",
+    "desc": "Mortality rate by age group"
+  },
+  {
+    "file": "04_feature_prevalence.png",
+    "title": "Feature Prevalence",
+    "desc": "How common each condition is"
+  },
+  {
+    "file": "05_death_rate_by_condition.png",
+    "title": "Death Rate by Condition",
+    "desc": "Risk per condition"
+  },
+  {
+    "file": "06_correlation_heatmap.png",
+    "title": "Correlation Heatmap",
+    "desc": "Feature correlations"
+  },
+  {
+    "file": "07_death_rate_grid.png",
+    "title": "Death Rate by Feature",
+    "desc": "Binary feature impact on mortality"
+  },
+  {
+    "file": "08_sex_analysis.png",
+    "title": "Sex Analysis",
+    "desc": "Mortality breakdown by sex"
+  },
+  {
+    "file": "09_age_by_condition.png",
+    "title": "Age by Condition",
+    "desc": "Age distribution for key comorbidities"
+  },
+  {
+    "file": "10_comorbidity_cooccurrence.png",
+    "title": "Comorbidity Co-occurrence",
+    "desc": "How conditions cluster"
+  },
+  {
+    "file": "11_hospitalized_sex_death.png",
+    "title": "Hospitalization & Sex",
+    "desc": "Death rate breakdown"
+  },
+  {
+    "file": "12_covid_positive_death.png",
+    "title": "COVID Status vs Death",
+    "desc": "Mortality by COVID status"
+  }
+]
