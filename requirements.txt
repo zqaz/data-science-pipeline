@@ -6,7 +6,6 @@ scikit-learn
 lightgbm
 shap
 streamlit
-altair>=4,<5
 plotly
 joblib
 scipy
